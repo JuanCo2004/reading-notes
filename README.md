@@ -2,11 +2,10 @@
 Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio y leer libros.
 | Sección | Descripción |
 |---------|------------|
-| [Introducción](#introducción) | Información general sobre mis notas. |
-| [Proyectos](#proyectos) | Lista de proyectos en los que estoy trabajando. |
-| [Recursos](#recursos) | Enlaces y materiales útiles. |
-| [Notas Técnicas](#notas-técnicas) | Apuntes sobre distintos temas técnicos. |
-| [Contacto](#contacto) | Cómo contactarme o colaborar conmigo. |
+| Sobre mí | Información general sobre mis notas. |
+| Habilidades | Lista de proyectos en los que estoy trabajando. |
+| Proyectos destacados | Enlaces y materiales útiles. |
+| Contacto | Cómo contactarme o colaborar conmigo. |
 
 ## 📚 Tabla de Contenidos
 
@@ -14,9 +13,4 @@ Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio 
 - [Habilidades](#-habilidades)
 - [Proyectos Destacados](#-proyectos-destacados)
 - [Contacto](#-contacto)
-## 🚀 Habilidades
 
-- Lenguajes: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Bases de datos: MySQL, MongoDB
-- Herramientas: Git, Docker, AWS
