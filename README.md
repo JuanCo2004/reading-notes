@@ -7,5 +7,8 @@ Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio 
 | [Proyectos destacados](#proyectos-destacados) | Enlaces y materiales útiles. |
 | [Contacto](#contacto) | Cómo contactarme o colaborar conmigo. |
 
-
+## Sobre mí:
+## Habilidades:
+## Proyectos destacados:
+## Contacto:
 
