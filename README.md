@@ -14,3 +14,9 @@ Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio 
 - [Habilidades](#-habilidades)
 - [Proyectos Destacados](#-proyectos-destacados)
 - [Contacto](#-contacto)
+## 🚀 Habilidades
+
+- Lenguajes: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Bases de datos: MySQL, MongoDB
+- Herramientas: Git, Docker, AWS
