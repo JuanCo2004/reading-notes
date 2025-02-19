@@ -3,18 +3,18 @@ Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio 
 | Sección | Descripción |
 |---------|------------|
 | [Sobre mí](#sobre-mí) | Información general sobre mí |
+| [Hobbies](#hobbies) | Lista de actividades que me gustan hacer. |
 | [Objetivos](#objetivos) | Lista de objetivos en los que estoy trabajando. |
-| [Proyectos destacados](#proyectos-destacados) | Enlaces y materiales útiles. |
 | [Contacto](#contacto) | Cómo contactarme |
 
 ## Sobre mí:
 ¡Hola! Soy Juan Correa, un apasionado por la tecnología y por el desarrollo de software. Actualmente, me encuentro estudiando la carrera de Ingeniería Informática para poder conocer más sobre estos temas.
+## Hobbies:
+
 ## Objetivos:
 1. Mejorar habilidades de programación y aprender nuevos lenguajes. 
 2. Desarrollar proyectos personales.
 3. Adoptar buenas técnicas de desarrollo.
-
-## Proyectos destacados:
 
 ## Contacto:
 N° de celular: 965217673
