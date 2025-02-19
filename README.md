@@ -10,6 +10,9 @@ Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio 
 ## Sobre mí:
 ¡Hola! Soy Juan Correa, un apasionado por la tecnología y por el desarrollo de software. Actualmente, me encuentro estudiando la carrera de Ingeniería Informática para poder conocer más sobre estos temas.
 ## Hobbies:
+1. Me gusta leer libros.
+2. Me gusta ir al gimnasio.
+3. Me gusta hacer deportes como natación.
 
 ## Objetivos:
 1. Mejorar habilidades de programación y aprender nuevos lenguajes. 
