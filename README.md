@@ -15,3 +15,5 @@ Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio 
 
 ## Contacto:
 N° de celular: 965217673
+
+### Mi visión de crecimiento como desarrollador:
