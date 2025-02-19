@@ -17,3 +17,4 @@ Estudio Ingeniería Informática en la PUCP. Mis pasatiempos son ir al gimnasio 
 N° de celular: 965217673
 
 ### Mi visión de crecimiento como desarrollador:
+Mi visión de crecimiento se basa en la mejora continua, la adaptabilidad y la búsqueda constante de conocimiento. Aspiro a fortalecer mis habilidades en escritura de código limpio y eficiente, y la adopción de nuevas tecnologías y metodologías ágiles. Además, me interesa desarrollar un pensamiento crítico para resolver problemas de manera creativa y eficiente.
