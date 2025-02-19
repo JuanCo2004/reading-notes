@@ -6,9 +6,9 @@ Usando el símbolo # podemos crear encabezados. Mientras más # coloquemos, se r
 ### Encabezado nivel 3
 # 2. Texto en negrita e itálica:
 Para aplicar formato al texto:
-- Negrita: Se usa **texto** o __texto__
-- Itálica: Se usa *texto* o _texto_
-- Negrita e Itálica: Se usa ***texto*** o ___texto___
+- Negrita: Se usa ** ** o __ __
+- Itálica: Se usa * * o _ _
+- Negrita e Itálica: Se usa *** *** o ___ ___
 Sin embargo, es recomendable usar *
 # 3. Listas ordenadas y no ordenadas:
 - Listas no ordenadas:
